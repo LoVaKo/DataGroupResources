@@ -11,3 +11,5 @@ We will have a short presentation on:
 - Different data roles
 - How to solve problems while coding
 - How to use AI effectively while learning
+
+Additionally, there will be time to study more python, and to ask questions about the things you've already done. I won't be here on friday the 16th so be sure to ask anything you are unsure of.
