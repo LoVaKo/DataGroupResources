@@ -14,3 +14,15 @@ We will have a short presentation on:
 - How to use AI effectively while learning
 
 Additionally, there will be time to study more python, and to ask questions about the things you've already done. I won't be here on friday the 16th so be sure to ask anything you are unsure of.
+
+## Third session
+## Github
+1. Create your own GitHub account.
+2. Create a 'repository' called small Python Exercises
+3. Upload your Python program - see next block - to your repository.
+   
+## Python
+1. Make one (or more) of the exercises in the EASY Python Exercises file (Number guessing game is one of the simpler ones). All these programs can be done simply and text based. If you want to expand your program with extra functionality, turn it into a webapp, all good. If you want to keep it clean and simple? Good as well!
+2. Continue your Python course of choice.
+
+
