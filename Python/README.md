@@ -1,6 +1,6 @@
 # Python
 For the upcoming week, you COULD do the following (You don't have to finish everything):
-- Follow your Python tutorial of choice at your own pace.
+- Follow your Python tutorial of choice at your own pace. (Codecademy, w3shools, etc)
 - And/or: Make the exercises in ThePlayersGuide: This is a fun way of learning python. It prompts you to figure things out yourself, expand your knowledge and skills while following a nice storyline. I WILL expand these exercises, in the end you'll write a complete, text-based RPG game!
 - Make the SUPEREASY exercises to practice. The exercises are 'easy' in python terms, with only a few lines of code, but they also test your problem solving skills.
 - Make the EASY exercises. These exercises are more like programs. They can be written in just one file, they will all be FULLY TEXT BASED (displayed in the terminal at the bottom of your screen), don't overcomplicate it!
